@@ -1,5 +1,5 @@
 # PokePosts
-An app for crowd-sourced Pokemon locations
+An iPhone app for crowd-sourced Pokemon locations
 
 Right now the app only has UI elements. Here is what they are:
 
